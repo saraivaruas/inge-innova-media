@@ -11,6 +11,10 @@ con un enlace directo. Solo contiene material ya aprobado para publicar.
 | [`videos/2026-12-03_smarter-sense-wear.mp4`](videos/2026-12-03_smarter-sense-wear.mp4) | Smarter Sense Wear | Reel vertical de 20 s, sin voz |
 | [`videos/2026-12-10_truck-smarter-tracker.mp4`](videos/2026-12-10_truck-smarter-tracker.mp4) | Truck Smarter Tracker | Reel vertical de 20 s, sin voz |
 
+## Imágenes
+
+Tarjetas para LinkedIn y Facebook (1200 × 627) y las láminas del carrusel de LICITEX (1080 × 1350) de diciembre de 2026, en `imagenes/`.
+
 El código fuente de los videos se agregará más adelante.
 
 © Inge Innova. Todos los derechos reservados sobre los videos y las marcas.
