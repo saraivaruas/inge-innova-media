@@ -7,6 +7,7 @@ con un enlace directo. Solo contiene material ya aprobado para publicar.
 
 | Video | Producto | Formato |
 |---|---|---|
+| [`videos/2026-12-03_smarter-sense-wear.mp4`](videos/2026-12-03_smarter-sense-wear.mp4) | Smarter Sense Wear | Reel vertical de 20 s, sin voz |
 | [`videos/2026-12-10_truck-smarter-tracker.mp4`](videos/2026-12-10_truck-smarter-tracker.mp4) | Truck Smarter Tracker | Reel vertical de 20 s, sin voz |
 
 El código fuente de los videos se agregará más adelante.
