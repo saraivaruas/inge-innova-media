@@ -14,6 +14,7 @@ con un enlace directo. Solo contiene material ya aprobado para publicar.
 | [`videos/2026-12-30_projex-pixi.mp4`](videos/2026-12-30_projex-pixi.mp4) | PROJEX (Pixi) | Reel vertical de 20 s, sin voz |
 | [`videos/2026-11-24_projex-prueba-gratis.mp4`](videos/2026-11-24_projex-prueba-gratis.mp4) | PROJEX (prueba 7 días) | Reel vertical de 20 s, sin voz |
 | [`videos/2026-11-24_traslados-corporativo.mp4`](videos/2026-11-24_traslados-corporativo.mp4) | Traslados Premium (corporativo) | Reel vertical de 20 s, sin voz |
+| [`videos/2026-11-25_licitex.mp4`](videos/2026-11-25_licitex.mp4) | LICITEX | Reel vertical de 20 s, sin voz |
 | [`videos/2026-12-10_truck-smarter-tracker.mp4`](videos/2026-12-10_truck-smarter-tracker.mp4) | Truck Smarter Tracker | Reel vertical de 20 s, sin voz |
 
 ## Imágenes

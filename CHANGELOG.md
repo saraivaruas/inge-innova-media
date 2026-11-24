@@ -6,6 +6,7 @@ uno con el cambio y otro con su documentación (este archivo y el `README.md`).
 ## [Sin publicar]
 
 ### Agregado
+- 2026-11-24: reel de LICITEX, una publicación y una historia con el enlace al formulario de interés (`videos/2026-11-25_licitex.mp4`, `imagenes/2026-11-25_post-licitex.png`, `imagenes/2026-11-25_historia-licitex-formulario.png`).
 - 2026-11-24: historias de PROJEX y Traslados Premium con el enlace al formulario de interés (`imagenes/2026-11-24_historia-*-formulario.png`); reemplazan a las historias sin formulario.
 - 2026-11-24: reels de PROJEX (prueba de 7 días gratis) y de Traslados Premium (traslados corporativos), más 2 publicaciones y 2 historias con el mismo mensaje (`videos/2026-11-24_*.mp4`, `imagenes/2026-11-24_*.png`).
 - 2026-11-21: reel de Truck Smarter Tracker (`videos/2026-12-10_truck-smarter-tracker.mp4`).
