@@ -6,6 +6,7 @@ uno con el cambio y otro con su documentación (este archivo y el `README.md`).
 ## [Sin publicar]
 
 ### Agregado
+- 2026-11-24: se resubieron completos los 5 reels `-v2` (la primera copia se hizo antes de que terminara el render y quedó incompleta). Todos duran 20 s.
 - 2026-11-24: versiones `-v2` de 5 reels (Traslados corporativo, LICITEX, Traslados Premium, informes de Smarter Sense Wear y PROJEX/Pixi) con el título visible desde el segundo 0, para que el primer cuadro de la reproducción automática y la miniatura no salgan vacíos.
 - 2026-11-24: reel de LICITEX, una publicación y una historia con el enlace al formulario de interés (`videos/2026-11-25_licitex.mp4`, `imagenes/2026-11-25_post-licitex.png`, `imagenes/2026-11-25_historia-licitex-formulario.png`).
 - 2026-11-24: historias de PROJEX y Traslados Premium con el enlace al formulario de interés (`imagenes/2026-11-24_historia-*-formulario.png`); reemplazan a las historias sin formulario.
