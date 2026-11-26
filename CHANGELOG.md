@@ -6,6 +6,7 @@ uno con el cambio y otro con su documentación (este archivo y el `README.md`).
 ## [Sin publicar]
 
 ### Agregado
+- 2026-11-26: reel de traslados corporativos corregido (`videos/2026-11-26_traslados-corporativo-whatsapp.mp4`): el cierre muestra el WhatsApp.
 - 2026-11-26: imagen de traslados corporativos corregida (`imagenes/2026-11-26_post-traslados-corporativo-whatsapp.png`): el contacto pasa a ser el WhatsApp.
 - 2026-11-26: videos con presentador y voz generados con IA, aprobados por Jorge: PROJEX (`videos/2026-11-28_projex-presentador-ia.mp4`), Traslados Premium, venta del software (`videos/2026-11-29_traslados-software-presentador-ia.mp4`) y LICITEX (`videos/2026-11-30_licitex-presentador-ia.mp4`).
 - 2026-11-24: se resubieron completos los 5 reels `-v2` (la primera copia se hizo antes de que terminara el render y quedó incompleta). Todos duran 20 s.

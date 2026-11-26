@@ -15,6 +15,7 @@ con un enlace directo. Solo contiene material ya aprobado para publicar.
 | [`videos/2026-11-24_projex-prueba-gratis.mp4`](videos/2026-11-24_projex-prueba-gratis.mp4) | PROJEX (prueba 7 días) | Reel vertical de 20 s, sin voz |
 | [`videos/2026-11-24_traslados-corporativo.mp4`](videos/2026-11-24_traslados-corporativo.mp4) | Traslados Premium (corporativo) | Reel vertical de 20 s, sin voz |
 | [`videos/2026-11-25_licitex.mp4`](videos/2026-11-25_licitex.mp4) | LICITEX | Reel vertical de 20 s, sin voz |
+| [`videos/2026-11-26_traslados-corporativo-whatsapp.mp4`](videos/2026-11-26_traslados-corporativo-whatsapp.mp4) | Traslados Premium (corporativo, contacto por WhatsApp) | Reel vertical de 20 s, sin voz |
 | [`videos/2026-11-28_projex-presentador-ia.mp4`](videos/2026-11-28_projex-presentador-ia.mp4) | PROJEX | Reel vertical con presentador generado con IA |
 | [`videos/2026-11-29_traslados-software-presentador-ia.mp4`](videos/2026-11-29_traslados-software-presentador-ia.mp4) | Traslados Premium (software) | Reel vertical con presentador generado con IA |
 | [`videos/2026-11-30_licitex-presentador-ia.mp4`](videos/2026-11-30_licitex-presentador-ia.mp4) | LICITEX | Reel vertical con presentador generado con IA |
