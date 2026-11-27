@@ -20,6 +20,7 @@ con un enlace directo. Solo contiene material ya aprobado para publicar.
 | [`videos/2026-11-29_traslados-software-presentador-ia.mp4`](videos/2026-11-29_traslados-software-presentador-ia.mp4) | Traslados Premium (software) | Reel vertical con presentador generado con IA |
 | [`videos/2026-11-30_licitex-presentador-ia.mp4`](videos/2026-11-30_licitex-presentador-ia.mp4) | LICITEX | Reel vertical con presentador generado con IA |
 | [`videos/2026-12-10_truck-smarter-tracker.mp4`](videos/2026-12-10_truck-smarter-tracker.mp4) | Truck Smarter Tracker | Reel vertical de 20 s, sin voz |
+| [`videos/2026-11-26_projex-dramatizacion-camioneta.mp4`](videos/2026-11-26_projex-dramatizacion-camioneta.mp4) | PROJEX | Dramatización vertical con personajes creados con IA (rotulada en el video) |
 
 ## Imágenes
 
